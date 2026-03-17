@@ -1,4 +1,4 @@
-num = 10
+num = -11
 
 if num > 0:
     print("Positive number")
